@@ -4,7 +4,7 @@ const NUMBER_OF_GUESSES = 6;
 let guessesRemaining = NUMBER_OF_GUESSES;
 let currentGuess = [];
 let nextLetter = 0;
-let rightGuessString = WORDS[483]
+let rightGuessString = WORDS[482]
 
 console.log(rightGuessString)
 
