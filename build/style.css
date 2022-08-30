@@ -58,7 +58,7 @@ h1 {
 
 
 @media only screen and (orientation: portrait) {
- keyboard {
+ body {
     width: 50%;
   }
 }
