@@ -57,8 +57,4 @@ h1 {
 
 
 
-@media only screen and (orientation: portrait) {
- body {
-    width: 50%;
-  }
-}
+
